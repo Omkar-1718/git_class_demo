@@ -5,3 +5,6 @@ with open("emp.csv", "w", newline="") as fp:
     writer.writerow(["id", "name", "salary"])
     writer.writerow([1, "Om", 20000])
     writer.writerow([2, "Amit", 30000])
+
+
+    ghgjkhgkgjhkh
